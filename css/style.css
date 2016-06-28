@@ -150,7 +150,7 @@ html, body,
 /* SECTION 2 [Introduction + Get in touch] */
 .intro-text {
 	text-align: center;
-	padding-top: 45px;
+	padding-top: 75px;
 	max-width: 600px;
 	margin: 0 auto;
 	}
@@ -177,7 +177,7 @@ html, body,
 .intro-bottom {
 	background-color: white;
 	margin: 0 auto;
-	margin-top: 50px;
+	margin-top: 60px;
 	height:60px;
     width:120px;
     border-radius: 90px 90px 0 0;
